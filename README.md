@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, MaterialUI and NextJS.**
 
-- 👨‍💻 Technology i am interested to learn in the future **GraphQL and Typescript.**
+- 👨‍💻 Technology i am interested to learn in the future **NodeJS/Express, Django and Typescript.**
 
 - 📫 How to reach me **arisgalay@outlook.com**
 

@@ -5,7 +5,7 @@
 
 - 👨‍💻 Technology i am interested to learn in the future **NodeJS/Express, Django and Typescript.**
 
-- 📫 How to reach me **arisgalay@outlook.com**
+- 📫 How to reach me **arisgalay02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

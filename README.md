@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aris!</h1>
 <h3 align="center">Aspiring software engineer from bulacan 🐱‍👤.</h3>
 
-- 🌱 I’m currently learning **ReactJS, MaterialUI and NextJS.**
+- 🌱 I’m currently learning **ReactJS, MaterialUI, NodeJS/Express, MongoDB, and TypeScript.**
 
-- 👨‍💻 Technology i am interested to learn in the future **NodeJS/Express, Django and Typescript.**
+- 👨‍💻 Technology i am interested to learn in the future **NextJS, Postgresql, and Java SpringBoot.**
 
 - 📫 How to reach me **arisgalay02@gmail.com**
 

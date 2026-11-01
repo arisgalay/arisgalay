@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aris!</h1>
-<h3 align="center">Software Engineer 🐱‍👤</h3>
+<h3 align="center">Software Developer 🐱‍👤</h3>
 
 - 🌱 I’m exploring new technologies and preparing for the **Claude Foundation** and **Claude Developer** certifications.
 - 👨‍💻 I’m interested in learning more technologies, including **React** and **Laravel**.
